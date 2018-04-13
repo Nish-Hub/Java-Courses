@@ -13,6 +13,7 @@ public class Pattern0s1s {
   public static void main(String [] args) {
     for( int x = 0; x<3; x++) {
       // XXX FOR LOOP MISSING // 
+        for(int y = 0; y < 2; y++) {
         System.out.println(x + ", "+y);
       }
     }
